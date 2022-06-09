@@ -23,6 +23,7 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 // YOU DO: log the result of the comparison: is numberTeachers less than numberStudents?
 // this should log: true
 
+
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers?
 // this should log: false
 
